@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://whalefishin.github.io/al-folio/sitemap.xml
+Sitemap: https://whalefishin.github.io/sitemap.xml
