@@ -25,12 +25,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
 
-I was born and raised in Shenzhen, China and came to the US at the age of 14. I attended Swarthmore College for undergrad and went on to get a math PhD from RPI. I worked with Dr. [Rongjie Lai](https://sites.google.com/view/rongjielai/home?authuser=0) to explore connections between deep generative models and mean-field games. My research interests include but are not limited to:
-- generative models
-- mean-field games/control
+I was born and raised in Shenzhen, China and came to the US at the age of 14. I attended Swarthmore College for undergrad and went on to get a math PhD from RPI. I worked with Dr. [Rongjie Lai](https://sites.google.com/view/rongjielai/home?authuser=0) to explore connections between deep generative models and mean-field games. My other research interests include:
 - optimal transport
 - language models
 - operator learning
+- geometric deep learning
 
 In earlier parts of my research career, I studied computational models for the brain with Dr. [Victor Barranca](https://barranca.domains.swarthmore.edu/). 
 
