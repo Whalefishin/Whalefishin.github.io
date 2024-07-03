@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Testing news
+I'll joining Meta as a research scientist on July 22nd, 2024!

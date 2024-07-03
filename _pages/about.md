@@ -35,7 +35,5 @@ I was born and raised in Shenzhen, China and came to the US at the age of 14. I 
 In earlier parts of my research career, I studied computational models for the brain with Dr. [Victor Barranca](https://barranca.domains.swarthmore.edu/). 
 
 
-I'll be a research scientist at Meta starting on July 22nd, 2024. It looks like my job will involve building recommendation systems used for ads and feeds, but I haven't started yet so who knows?
-
-I love video games and write about them regularly here.
+<!-- I love video games and write about them regularly here. -->
 
