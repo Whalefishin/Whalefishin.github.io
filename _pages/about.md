@@ -31,7 +31,7 @@ I was born and raised in Shenzhen, China and came to the US at the age of 14. I 
 - operator learning
 - geometric deep learning
 
-In earlier parts of my research career, I studied computational models for the brain with Dr. [Victor Barranca](https://barranca.domains.swarthmore.edu/). 
+In earlier parts of my research career, I studied computational models of the brain with Dr. [Victor Barranca](https://barranca.domains.swarthmore.edu/). 
 
 
 <!-- I love video games and write about them regularly here. -->
